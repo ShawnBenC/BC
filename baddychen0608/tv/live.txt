@@ -280,6 +280,7 @@ NewTV中国功夫,http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+中天新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1655135440/ei/cAinYtLnKs-L1d8Pi6admAM/ip/193.122.106.33/id/_QbRXRnHMVY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-ab02a0nfpgxapox-bh2zr.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Du/mm/44/mn/sn-ab02a0nfpgxapox-bh2zr/ms/lva/mv/u/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246,24208264/mt/1655113519/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAPqMKj2Pk_COCkqC8UezBQzNlI5EzXWwx99OtzHt6bJ-AiBDQu-N1VMFWjafyUkcblvMR51dkAwDnNYk9wWF-zg_EA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALmEB5UKElCffLXmoPCYCdVLX43MrnTNk-Ppxd_q3YhcAiA6OmddK2ZKhaA992Ijxd5DFGpZxPSs01eiBcVClABTpw%3D%3D/playlist/index.m3u8
 
 🔫埋堆堆,#genre#
 埋堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
