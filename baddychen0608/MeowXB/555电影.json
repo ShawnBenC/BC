@@ -21,6 +21,8 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+  "gengxinqian":"module-item-note\">",
+  "gengxinhou":"</div>", 
 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
