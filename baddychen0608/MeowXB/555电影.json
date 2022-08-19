@@ -21,6 +21,8 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+  "fubiaotiqian": "<div class=\"module-item-caption\">",
+  "fubiaotihou": "</div>",
   "gengxinqian":"module-item-note\">",
   "gengxinhou":"</div>", 
 
