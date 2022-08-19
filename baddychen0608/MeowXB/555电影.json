@@ -23,8 +23,8 @@
   "lianjiehou": "\"",
   "fubiaotiqian": "<div class=\"module-item-caption\">",
   "fubiaotihou": "</div>",
-  "gengxinqian":"module-item-note\">",
-  "gengxinhou":"</div>", 
+  //"gengxinqian":"module-item-note\">",
+  //"gengxinhou":"</div>", 
 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
